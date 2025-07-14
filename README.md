@@ -9,10 +9,10 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, Javascript
-- **Frameworks:** Django, React
-- **ML/DL:** TensorFlow, PyTorch, NLP, Computer Vision
-- **Cloud & DevOps:** AWS, Git
-- **Data & Analytics:** PowerBI, MongoDB, MySQL, Postman
+- **Frameworks:** React, Django, Bootstrap, TensorFlow, PyTorch
+- **ML/DL:** NLP, Computer Vision, Agentic AI, GenAI, Prompt Engineering, RAG, Copilot
+- **Systems and Tools:** AWS, Docker, Google Cloud, Figma, Git, PowerBI, Postman
+- **DataBase:** MySQL, MongoDB
 
 ## 📌 Featured Projects
 
